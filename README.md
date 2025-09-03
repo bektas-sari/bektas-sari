@@ -2,8 +2,8 @@
 
 🎓 Ph.D. in Advertising | 🤖 AI in Marketing Specialist | 🧠 Neuromarketing & Data-Driven Strategist
 
-I'm an experienced advertising professional and researcher, blending traditional marketing expertise with cutting-edge AI technologies. 
-With a Ph.D. focused on consumer responses to AI-generated advertisements, I specialize in developing data-driven strategies, designing intelligent systems, and building scalable software tools for marketing innovation.
+Researcher and developer blending traditional marketing expertise with cutting-edge AI technologies. My Ph.D. focused on consumer responses to AI-generated advertisements, 
+with expertise in developing data-driven strategies and building scalable software tools for marketing innovation.
 
 ---
 
@@ -18,10 +18,21 @@ With a Ph.D. focused on consumer responses to AI-generated advertisements, I spe
 
 ## 🛠️ Skills
 
-- **Programming:** Python, Dart, HTML, CSS, JavaScript
-- **Frameworks & Tools:** Flutter, Django, WordPress, Git, Firebase
-- **Marketing & SEO:** Google Ads, SEO (on/off-site), Neuromarketing strategies
-- **Other:** AI Tools (OpenAI, Deep Learning APIs), Data Visualization
+**Programming Languages:** 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Tools:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Marketing & AI:**
+- Neuromarketing Strategies
+- AI Tools (OpenAI, Deep Learning APIs)
+- Google Ads & SEO Optimization
+- Data Visualization & Analytics
 
 ---
 
