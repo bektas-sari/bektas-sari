@@ -26,6 +26,7 @@ with expertise in developing data-driven strategies and building scalable softwa
 **Frameworks & Tools:**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![WordPress](https://img.shields.io/wordpress/plugin/:interval/:slug)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 **Marketing & AI:**
