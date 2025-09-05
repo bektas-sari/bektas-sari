@@ -16,33 +16,45 @@ with expertise in developing data-driven strategies and building scalable softwa
 
 ---
 
-🛠️ Technical Skills
-Programming Languages
-Python: Advanced (Flask, Django, Tkinter, OpenCV, NumPy, Pandas)
-Dart: Advanced (Flutter framework, mobile development)
-JavaScript: Intermediate (Frontend development, React basics)
-HTML/CSS: Advanced (Responsive design, modern frameworks)
-PHP: Basic (WordPress theme/plugin development)
+## 🧠 Technical Skills
 
-Frameworks & Technologies
-Flutter: Expert (Cross-platform mobile development)
-Django: Intermediate (Full-stack web development)
-Flask: Advanced (RESTful APIs, backend services)
-Firebase: Intermediate (Authentication, Firestore, Cloud Functions)
-Tkinter: Intermediate (Desktop GUI applications)
-WordPress: Advanced (Theme development, plugin customization, WooCommerce)
+### 🧑‍💻 Programming Languages
+- **Python** — Advanced *(Flask, Django, Tkinter, OpenCV, NumPy, Pandas)*
+- **Dart (Flutter)** — Advanced *(mobile development)*
+- **JavaScript** — Intermediate *(frontend development, React basics)*
+- **HTML/CSS** — Advanced *(responsive design, modern frameworks)*
+- **PHP** — Basic *(WordPress theme/plugin development)*
 
-AI & Machine Learning
-Neuromarketing Strategies: Consumer behavior analysis using AI
-AI Tools: OpenAI APIs, TensorFlow, Deep Learning frameworks
-Computer Vision: OpenCV, saliency detection, image processing
-Data Analysis: Pandas, NumPy, data visualization
+### 🧰 Frameworks & Technologies
+- **Flutter** — Expert *(cross-platform mobile development)*
+- **Django** — Intermediate *(full-stack web development)*
+- **Flask** — Advanced *(RESTful APIs, backend services)*
+- **Firebase** — Intermediate *(Authentication, Firestore, Cloud Functions)*
+- **Tkinter** — Intermediate *(desktop GUI applications)*
+- **WordPress** — Advanced *(theme development, plugin customization, WooCommerce)*
 
-Marketing & Analytics
-Google Ads: Campaign management, optimization strategies
-SEO Optimization: Technical SEO, content strategy, analytics
-Data Visualization: Tableau, Google Data Studio, Matplotlib
-Web Analytics: Google Analytics, heatmap tools, conversion tracking
+### 🤖 AI & Machine Learning
+- **Neuromarketing Strategies** — Consumer behavior analysis using AI
+- **AI Tools** — OpenAI APIs, TensorFlow, deep learning frameworks
+- **Computer Vision** — OpenCV, saliency detection, image processing
+- **Data Analysis** — Pandas, NumPy, data visualization
+
+### 📊 Marketing & Analytics
+- **Google Ads** — Campaign management, optimization strategies
+- **SEO Optimization** — Technical SEO, content strategy, analytics
+- **Data Visualization** — Tableau, Google Data Studio, Matplotlib
+- **Web Analytics** — Google Analytics, heatmap tools, conversion tracking
+
+---
+
+## 👤 Developer  
+
+**Bektas Sari**  
+- **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
+- **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
+- **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
+- **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
+- **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
 
 ---
 
