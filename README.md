@@ -16,23 +16,33 @@ with expertise in developing data-driven strategies and building scalable softwa
 
 ---
 
-## 🛠️ Skills
+🛠️ Technical Skills
+Programming Languages
+Python: Advanced (Flask, Django, Tkinter, OpenCV, NumPy, Pandas)
+Dart: Advanced (Flutter framework, mobile development)
+JavaScript: Intermediate (Frontend development, React basics)
+HTML/CSS: Advanced (Responsive design, modern frameworks)
+PHP: Basic (WordPress theme/plugin development)
 
-**Programming Languages:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Frameworks & Technologies
+Flutter: Expert (Cross-platform mobile development)
+Django: Intermediate (Full-stack web development)
+Flask: Advanced (RESTful APIs, backend services)
+Firebase: Intermediate (Authentication, Firestore, Cloud Functions)
+Tkinter: Intermediate (Desktop GUI applications)
+WordPress: Advanced (Theme development, plugin customization, WooCommerce)
 
-**Frameworks & Tools:**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+AI & Machine Learning
+Neuromarketing Strategies: Consumer behavior analysis using AI
+AI Tools: OpenAI APIs, TensorFlow, Deep Learning frameworks
+Computer Vision: OpenCV, saliency detection, image processing
+Data Analysis: Pandas, NumPy, data visualization
 
-**Marketing & AI:**
-- Neuromarketing Strategies
-- AI Tools (OpenAI, Deep Learning APIs)
-- Google Ads & SEO Optimization
-- Data Visualization & Analytics
+Marketing & Analytics
+Google Ads: Campaign management, optimization strategies
+SEO Optimization: Technical SEO, content strategy, analytics
+Data Visualization: Tableau, Google Data Studio, Matplotlib
+Web Analytics: Google Analytics, heatmap tools, conversion tracking
 
 ---
 
